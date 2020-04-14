@@ -1,4 +1,3 @@
-number = 100
 
 def countdown(number)
   while i < 0
